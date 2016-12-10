@@ -1,0 +1,14 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "koa2",
+  "main": "index.js",
+  "scripts": {
+    "start": "forever -w -c 'node --debug --harmony-async-await' index.js"
+  },
+  "author": "mwz",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.0"
+  }
+}
